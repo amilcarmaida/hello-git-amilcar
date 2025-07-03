@@ -1,2 +1,3 @@
 print("This is the initial of the course")
-##adding a comment
+
+##adding comments for class 3
